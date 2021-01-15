@@ -1,7 +1,18 @@
-# medium_JavaBasics
-Medium：Sample Code of Java Basics
+# Medium_Java_JavaBasics
+Medium：JavaBasics
+
 ***
-- [刊物：Rick X Coding](https://medium.com/rick-x-coding)
-- [作者：Rick](https://medium.com/@RickBSR)
-</br></br>
+#### 項目
+[JavaBasics](https://medium.com/rick-x-coding/tagged/java-basics)
+
 ***
+#### 作者
+[Rick](https://medium.com/@RickBSR)
+
+***
+#### 刊物
+[Rick X Coding](https://medium.com/rick-x-coding)
+
+***
+#### 備註
+僅為範例程式碼。
